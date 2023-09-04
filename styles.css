@@ -8,6 +8,6 @@
 #n1{
 	
 }
-tr,th,table,td{
-	border:1px solid black;
+td,li{
+	text-align:center;
 }
