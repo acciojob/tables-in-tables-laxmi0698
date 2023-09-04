@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+#n3{
+	background:black;
+	color:white;
+	text-align:center;
+}
+#n1{
+	
+}
+tr,th,table,td{
+	border:1px solid black;
+}
